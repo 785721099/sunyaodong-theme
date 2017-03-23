@@ -1,0 +1,22 @@
+{
+    "name": "sunyaodong-theme",
+    "displayName": "sunyaodong-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "sunyaodong",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sunyaodong-theme",
+                "uiTheme": "vs-light",
+                "path": "./themes/Sunyaodong-Theme.tmTheme"
+            }
+        ]
+    }
+}
