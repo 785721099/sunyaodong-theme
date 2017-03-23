@@ -1,5 +1,5 @@
 {
-    "name": "sunyaodong-theme",
+    "name": "Protective coloration-theme",
     "displayName": "sunyaodong-theme",
     "description": "",
     "version": "0.0.1",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "sunyaodong-theme",
+                "label": "Protective coloration-theme",
                 "uiTheme": "vs-light",
-                "path": "./themes/Sunyaodong-Theme.tmTheme"
+                "path": "./themes/Eye protection (Light).tmTheme"
             }
         ]
     }

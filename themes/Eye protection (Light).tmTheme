@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Tinacious Design (Light)</string>
+	<string>Eye protection (Light)</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -16,15 +16,15 @@
 				<key>background</key>
 				<string>#C7EDCC</string>
 				<key>caret</key>
-				<string>#44425e</string>
+				<string>#C7EDCC</string>
 				<key>foreground</key>
-				<string>#44425e</string>
+				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#D9D8EC</string>
+				<string>#000000</string>
 				<key>lineHighlight</key>
-				<string>#eae9ff</string>
+				<string>#FFFFFF</string>
 				<key>selection</key>
-				<string>#dbdaff</string>
+				<string>#3ABDE8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A09BB3</string>
+				<string>#1D613F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFAA00</string>
+				<string>#2A00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC66FF</string>
+				<string>#AE00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC66FF</string>
+				<string>#FF00EA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC66FF</string>
+				<string>#CC00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,6 +91,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#DB5000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -101,7 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF3399</string>
+				<string>#FF0080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +116,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF3399</string>
+				<string>#7f007f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +129,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#00AEE8</string>
+				<string>#7f007f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,10 +139,10 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
-				<string>#00D364</string>
+				<string>#2A00FF</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,7 +168,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00D364</string>
+				<string>#0084FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +181,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFAA00</string>
+				<string>#001EFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,7 +194,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF3399</string>
+				<string>#3F7F7F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -205,7 +207,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00D364</string>
+				<string>#c7617f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -218,7 +220,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00CED1</string>
+				<string>#FF0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,8 +232,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#00CED1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -244,7 +244,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#00AEE8</string>
+				<string>#CC66FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -294,6 +294,9 @@
 	<key>semanticClass</key>
 	<string>theme.light.tinacious_design_light</string>
 	<key>author</key>
-	<string>Tina Holly</string>
+	<string>YaoDong Sun</string>
+	<key>comment</key>
+	<string>没有找到护眼色的主题但是有需要一个所以自己做了一个，欢迎大家来使用。
+Did not find the theme of the eye care, but there is a need to do a so, welcome to use</string>
 </dict>
 </plist>
