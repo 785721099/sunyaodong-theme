@@ -1,9 +1,10 @@
 {
-    "name": "Protective coloration-theme",
-    "displayName": "sunyaodong-theme",
+    "name": "theme-protectivecoloration",
+    "displayName": "theme-Protectivecoloration",
     "description": "",
     "version": "0.0.1",
-    "publisher": "sunyaodong",
+    "publisher": "Protectivecoloration",
+    "repository": "https://github.com/785721099/sunyaodong-theme",
     "engines": {
         "vscode": "^1.10.0"
     },
@@ -14,9 +15,14 @@
         "themes": [
             {
                 "label": "Protective coloration-theme",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/Eye protection (Light).tmTheme"
             }
         ]
-    }
+    },
+    "__metadata": {
+		"id": "2d7381e3-ca4b-430c-a6cf-0d8ee0643f64",
+		"publisherId": "55a40ffa-f322-44cf-b1a4-1736a36bde73",
+		"publisherDisplayName": "Tinacious Design"
+	}
 }
